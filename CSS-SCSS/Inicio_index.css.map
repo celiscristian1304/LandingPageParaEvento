@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gBAAgB,CAAC;EACb,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,GAAG;EACV,UAAU,EAAE,OAAO;CACtB",
+    "sources": [
+        "Inicio_index.scss"
+    ],
+    "names": [],
+    "file": "Inicio_index.css"
+}

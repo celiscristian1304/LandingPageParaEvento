@@ -1,0 +1,26 @@
+.FormularioInscripcion {
+    display: inline-block;
+    position: absolute;
+    top: 250px;
+    right: 15px;
+    span {
+        position: relative;
+        left: 10%;
+        top: 10px;
+    }
+    .InFormulario {
+        label, input {
+            margin: 10px;
+        }
+        border: solid 1px rgb(0, 0, 0);
+        height: 41px;
+        margin: 10px;
+    }
+    input {
+        border: none;
+    }
+    button {
+        position: relative;
+        left: 70%;
+    }
+}

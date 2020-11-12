@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,oBAAoB,CAAC;EACjB,KAAK,EAAE,GAAG;EACV,UAAU,EAAE,OAAO;CAMtB;;AARD,AAGI,oBAHgB,CAGhB,EAAE,CAAC;EACC,QAAQ,EAAE,QAAQ;EAClB,IAAI,EAAE,IAAI;EACV,GAAG,EAAE,IAAI;CACZ",
+    "sources": [
+        "ComoLlegar_index.scss"
+    ],
+    "names": [],
+    "file": "ComoLlegar_index.css"
+}

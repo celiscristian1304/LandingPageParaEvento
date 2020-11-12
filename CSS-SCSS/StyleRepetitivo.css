@@ -1,0 +1,69 @@
+.FormularioInscripcion {
+  display: inline-block;
+  position: absolute;
+  top: 250px;
+  right: 15px;
+}
+
+.FormularioInscripcion span {
+  position: relative;
+  left: 10%;
+  top: 10px;
+}
+
+.FormularioInscripcion .InFormulario {
+  border: solid 1px black;
+  height: 41px;
+  margin: 10px;
+}
+
+.FormularioInscripcion .InFormulario label, .FormularioInscripcion .InFormulario input {
+  margin: 10px;
+}
+
+.FormularioInscripcion input {
+  border: none;
+}
+
+.FormularioInscripcion button {
+  position: relative;
+  left: 70%;
+}
+
+header img {
+  width: 100%;
+  height: 200px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  border: solid 2px black;
+}
+
+nav li {
+  display: inline-block;
+  width: 24%;
+  text-align: center;
+  list-style: none;
+}
+
+nav li a {
+  text-decoration: none;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body {
+  position: relative;
+}
+
+footer {
+  border: 2px solid black;
+  text-align: center;
+}
+/*# sourceMappingURL=StyleRepetitivo.css.map */

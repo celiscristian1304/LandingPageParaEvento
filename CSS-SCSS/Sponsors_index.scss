@@ -1,0 +1,21 @@
+.ContenidoSponsors {
+    width: 57%;
+    text-align: justify;
+    h1, h2 {
+        position: relative;
+        left: 50px;
+        top: 10px;
+    }
+    h2 {
+        font-weight: normal;
+        margin: 0 0 12px 0;
+    }
+    div {
+        border: solid 1px rgb(0, 0, 0);
+        width: 120px;
+        height: 70px;
+        display: inline-block;
+        margin: 0 8px;
+    }
+    
+}

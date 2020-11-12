@@ -1,0 +1,31 @@
+.ContenidoOradores {
+    h1 {
+        position: relative;
+        left: 50px;
+        top: 10px;
+    }
+    img {
+        border-radius: 8em;
+    }
+
+    .contenedor {
+        width: 60%;
+        height: 80px;
+        .Info {
+            position: relative;
+            left: 110px;
+            top: -100px;
+        }
+        .FIL {
+            border: solid 1px rgb(0, 0, 0);
+            padding: 5px;
+            width: 21px;
+            height: auto;
+            display: inline-block;
+            margin: 5px;
+            position: relative;
+            left: 110px;
+            top: -100px;
+        }
+    }
+}
